@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ GameWorld\ world\ \r\n\ \r\n\ Jason\ Xian\ Adrian\ Wong\ \r\n\ @version\ (7.0\ June\ 15)\r\n
+comment1.params=n\ m\ game
+comment1.target=GameWorld(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameWorld.\r\n\ \r\n
+comment2.params=n\ m\ game\ ct\ sr
+comment2.target=GameWorld(int,\ int,\ int,\ Client,\ Server)
+comment3.params=n\ m\ game
+comment3.target=void\ setUp(int,\ int,\ int)
+comment3.text=\r\n\ This\ method\ determines\ which\ character\ player\ 1\ and\ player\ 2\ selects\ and\ adds\ \r\n\ the\ character\ onto\ the\ GameWorld\r\n
+comment4.params=input
+comment4.target=void\ sendOutput(java.lang.String)
+comment5.params=input
+comment5.target=void\ gotInput(java.lang.String)
+comment6.params=
+comment6.target=HealthBar\ getPlayerOneHealthBar()
+comment6.text=\r\n\ returns\ player\ one's\ healthbar\ so\ its\ methods\ can\ be\ called\ elsewhere\r\n
+comment7.params=
+comment7.target=HealthBar\ getPlayerTwoHealthBar()
+comment7.text=\r\n\ returns\ player\ two's\ healthbar\ so\ its\ methods\ can\ be\ called\ elsewhere\r\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ HealthBar\ class\ for\ gameworld\ and\ characters\r\n\ \r\n\ @Jason\ Xian\ and\ Adrian\ Wong\r\n\ @June\ 15\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ HealthBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ display()
+comment4.params=n
+comment4.target=void\ loseHealth(int)
+comment5.params=
+comment5.target=int\ getHealth()
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ Title\ Screen\ World/Main\ Menu\ \r\n\ \r\n\ @Adrian\ Wong\ Jason\ Xian\ \r\n\ @version\ (7.0,\ June\ 15)\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addArrow()
+comment3.text=\r\n\ This\ method\ checks\ if\ the\ mouse\ is\ over\ a\ certain\ area\ on\ the\ screen\ and\ adds\ \r\n\ an\ arrow\ actor\ according\ to\ where\ the\ mouse\ is\ hovering\r\n
+comment4.params=
+comment4.target=void\ removeArrow()
+comment4.text=\r\n\ This\ method\ removes\ the\ arrow\ actor\ if\ the\ mouse\ leaves\ the\ respective\ space\r\n
+comment5.params=
+comment5.target=void\ Advance()
+comment5.text=\r\n\ This\ method\ checks\ if\ the\ mouse\ if\ hovering\ over\ an\ option\ and\ checks\ if\ the\ user\ clicks\ the\ mouse.\r\n\ It\ then\ changes\ the\ world\ depending\ on\ what\ the\ user\ clicks\r\n
+numComments=6

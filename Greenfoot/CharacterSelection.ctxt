@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CharacterSelection
+comment0.text=\r\n\ CharacterSelection\ World\ \r\n\ \r\n\ Adrian\ Wong\ Jason\ Xian\r\n\ @version\ (7.0\ June\ 15)\r\n
+comment1.params=n
+comment1.target=CharacterSelection(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CharacterSelection.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMouse()
+comment3.text=\r\n\ Checks\ which\ character\ the\ player\ clicks.\ Player\ 1\ clicks\ first,\ player\ 2\ clicks\ second.\ Once\ both\ characters\ are\ chosen,\ the\ world\ switches\ to\ the\ GameWorld\r\n
+comment4.params=n
+comment4.target=void\ serverStuff(int)
+numComments=5

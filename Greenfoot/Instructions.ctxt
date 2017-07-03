@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\r\n\ Introduction\ world\ \r\n\ \r\n\ Adrian\ Wong\ Jason\ Xian\r\n\ @version\ (7.0\ June\ 15)\r\n
+comment1.params=
+comment1.target=Instructions()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addArrow()
+comment3.text=\r\n\ This\ method\ checks\ where\ the\ location\ of\ the\ mouse\ is\ and\ adds\ an\ arrow\ button\ if\ hovering\ over\ the\ "RETURN"\ text\r\n
+comment4.params=
+comment4.target=void\ removeArrow()
+comment4.text=\r\n\ This\ method\ removes\ the\ arrow\ if\ outside\ the\ "RETURN"\ text\r\n
+comment5.params=
+comment5.target=void\ Advance()
+comment5.text=\r\n\ This\ method\ returns\ the\ user\ back\ to\ the\ title\ screen\ if\ they\ click\ the\ "RETURN"\ button\r\n
+numComments=6

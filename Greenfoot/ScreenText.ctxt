@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ScreenText
+comment0.text=\r\n\ ScreenText\ puts\ words\ on\ the\ screen\r\n\ \r\n\ @Jason\ Xian\ and\ Adrian\ Wong\ \r\n\ @June\ 8\r\n
+comment1.params=image
+comment1.target=ScreenText(greenfoot.GreenfootImage)
+numComments=2
