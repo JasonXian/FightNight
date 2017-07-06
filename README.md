@@ -9,6 +9,8 @@ Instructions:
 
 Future Updates:
 
+0. Important: Test if java.net works on seperate networks, currently only tested on computers connected to a local network.
+
 1. Re-comment code, currently very messy as we rushed to complete the project before the due date.
 2. Add special attacks, combos and counters to improve on the complexity of the game.
 3. Add sound to the game to make it more fun and exciting.
